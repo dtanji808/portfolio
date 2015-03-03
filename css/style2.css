@@ -60,23 +60,6 @@ table {
   border-spacing: 0;
 }
 
-
-/*.top-navigation {*/
-  background-color: #fff;
-  position: fixed;
-  width: 100%;
-  z-index: 9999;
-  border-bottom: 1px solid #DDD;
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size:100%;
-  vertical-align: baseline;
-  box-sizing: border-box;
-  display:block;
-}
- 
-
 .top-navigation > .content {
   width: 970px;
   height: 70px;
