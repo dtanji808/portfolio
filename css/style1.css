@@ -109,9 +109,6 @@ table {
 
 }
 
-/*a:hover {*/
-  color: #333333;
-}
 
 .active a {
   color: #333333;
@@ -192,6 +189,57 @@ div {
 display: block;
 
 }
+
+.masthead-intro {
+  margin-bottom: 0.1em;
+  color: #2FD4E0;
+  font-size: 4em;
+  font-family:"Gentium Book Basic", Georgia, Serif;
+  
+}
+
+.masthead {
+  padding: 20em 0;
+  background-image: url('https://unsplash.com/photos/VgMUzJ3gX2o/download');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top: solid 1em #1e39a6;
+
+} 
+
+.social >li{
+  display: center;
+   padding: 1em;
+   text-align: center;
+}
+a:link {
+   color: #9FC3E0;
+   text-decoration: none;
+ }
+a:visited {
+  color: #2FD4E0;
+}
+
+a:hover {
+  color: #2FE0E0;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #35E02F;
+}
+
+.cases  {
+  font-weight: 400;
+  font-size: 1.563rem;
+  margin: 1rem 0px 1.870rem;
+
+}
+.content {
+  padding-bottom: 10px
+}
+ 
+ 
 
 
 
